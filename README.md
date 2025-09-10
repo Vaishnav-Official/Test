@@ -1,7 +1,8 @@
 
 # Airlines-Dashboard
 
-### Dashboard Link : ([**https://app.powerbi.com/links/p_yynwEU-h?ctid=b0f1f646-ed3e-4f7e-a8bb-cf2191ddb786&pbi_source=linkShare&bookmarkGuid=38c4fbbd-618f-45cd-9680-bad798577015**])
+## Interactive Dashboard 
+[**Explore the Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiM2M2MDA4ZjAtOGU0Mi00NzY0LTg3OGUtMjNlN2U5YmVlYTgzIiwidCI6ImIwZjFmNjQ2LWVkM2UtNGY3ZS1hOGJiLWNmMjE5MWRkYjc4NiJ9)
 
 ## Problem Statement
 
